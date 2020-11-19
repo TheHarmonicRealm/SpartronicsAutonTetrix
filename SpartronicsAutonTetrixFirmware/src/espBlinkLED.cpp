@@ -2,7 +2,7 @@
 // From the RobotDYN docs, the 'test esp' sketch
 #include <Arduino.h> 
 #include <ESP8266WiFi.h>
-// I'm not really interested in getting the teest esp sketch to work...
+// I'm not really interested in getting the test esp sketch to work...
 /*
 void setup() { 
     Serial.begin(115200);
